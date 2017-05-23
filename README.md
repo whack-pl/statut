@@ -136,11 +136,11 @@ określonym w § 19 ust.3 Statutu, przy czym oświadczenie woli  jest wydawane p
 2. Oświadczenie woli o zamiarze rezygnacji z udziału w Stowarzyszeniu winno być sporządzone na piśmie pod rygorem nieważności, zaś rozwiązanie stosunku członkostwa następuje z chwilą skutecznego doręczenia oświadczenia woli na ręce dowolnego członka Zarządu.
 3. Zdarzeniami powodującymi utratę członkostwa z mocy prawa są:
    1. w wypadku osób fizycznych:
-     1. śmierć członka - z chwilą określoną w odpowiednim akcie stanu cywilnego lub prawomocnym orzeczeniu sądu;
-     2. całkowita utrata zdolności do czynności prawnych - z chwilą uprawomocnienia się odpowiedniego orzeczenia sądu;
+      1. śmierć członka - z chwilą określoną w odpowiednim akcie stanu cywilnego lub prawomocnym orzeczeniu sądu;
+      2. całkowita utrata zdolności do czynności prawnych - z chwilą uprawomocnienia się odpowiedniego orzeczenia sądu;
    2. w wypadku osób prawnych:
-     1. ogłoszenie upadłości - z chwilą uprawomocnienia się odpowiedniego orzeczenia;
-     2. b) wykreślenie osoby prawnej z rejestru- z chwilą dokonania odpowiedniego wpisu;
+      1. ogłoszenie upadłości - z chwilą uprawomocnienia się odpowiedniego orzeczenia;
+      2. wykreślenie osoby prawnej z rejestru- z chwilą dokonania odpowiedniego wpisu;
 
 ### § 14. Orzeczenia dyscyplinarne
 
