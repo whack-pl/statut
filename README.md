@@ -26,30 +26,30 @@ Stowarzyszenie nosi nazwę: "Stowarzyszenie wHack" (w dalszej części Statutu z
 
 Celem Stowarzyszenia jest:
 
-  1. upowszechnianie wiedzy;
-  2. wspieranie i rozwój techniki, wynalazczości i innowacyjności oraz rozpowszechnianie i wdrażanie nowych rozwiązań technicznych w praktyce gospodarczej oraz innych sferach życia publicznego;
-  3. rozwój badań interdyscyplinarnych i prowadzenie prac naukowo-badawczych;
-  4. wsparcie integracji i reintegracji zawodowej i społecznej osób zagrożonych wykluczeniem społecznym oraz promocja zatrudnienia i aktywizacji zawodowej osób pozostających bez pracy i zagrożonych zwolnieniem z pracy, poprzez upowszechnianie wiedzy i umiejętności technicznych;
-  5. upowszechnianie i ochrona wolności i praw człowieka oraz swobód obywatelskich, a także działania wspomagające rozwój demokracji, w szczególności w kontekście rozwoju społeczeństwa informacyjnego i nowych technologii;
-  6. wsparcie działań kulturalnych i artystycznych, rozwoju wspólnot i społeczności lokalnych, nauki, szkolnictwa wyższego, edukacji, oświaty i wychowania, oraz innej działalności na rzecz dzieci i młodzieży, poprzez popularyzację wiedzy technicznej dotyczącej nowych technologii;
-  7. pomoc w budowaniu porządku i bezpieczeństwa publicznego oraz obronności państwa w kontekście bezpieczeństwa cybernetycznego.
+   1. upowszechnianie wiedzy;
+   2. wspieranie i rozwój techniki, wynalazczości i innowacyjności oraz rozpowszechnianie i wdrażanie nowych rozwiązań technicznych w praktyce gospodarczej oraz innych sferach życia publicznego;
+   3. rozwój badań interdyscyplinarnych i prowadzenie prac naukowo-badawczych;
+   4. wsparcie integracji i reintegracji zawodowej i społecznej osób zagrożonych wykluczeniem społecznym oraz promocja zatrudnienia i aktywizacji zawodowej osób pozostających bez pracy i zagrożonych zwolnieniem z pracy, poprzez upowszechnianie wiedzy i umiejętności technicznych;
+   5. upowszechnianie i ochrona wolności i praw człowieka oraz swobód obywatelskich, a także działania wspomagające rozwój demokracji, w szczególności w kontekście rozwoju społeczeństwa informacyjnego i nowych technologii;
+   6. wsparcie działań kulturalnych i artystycznych, rozwoju wspólnot i społeczności lokalnych, nauki, szkolnictwa wyższego, edukacji, oświaty i wychowania, oraz innej działalności na rzecz dzieci i młodzieży, poprzez popularyzację wiedzy technicznej dotyczącej nowych technologii;
+   7. pomoc w budowaniu porządku i bezpieczeństwa publicznego oraz obronności państwa w kontekście bezpieczeństwa cybernetycznego.
 
 ### § 5. Sposoby realizacji celów Stowarzyszenia
 
 Stowarzyszenie swe cele realizuje poprzez:
 
-  1. tworzenie i utrzymywanie infrastruktury stymulującej rozwój projektów badawczych i edukacyjnych;
-  2. prowadzenie spotkań, konferencji, seminariów, wykładów i szkoleń;
-  3. organizowanie konkursów i imprez promocyjnych oraz działalność kulturalną, w szczególności organizowanie wystaw, prezentacji, projekcji, happeningów;
-  4. udział w imprezach promujących naukę;
-  5. realizację i wspieranie projektów naukowych;
-  6. działalność edukacyjną, publicystyczną i wydawniczą;
-  7. działania integrujące środowiska akademickie i przemysłowe;
-  8. współpracę z krajowymi i zagranicznymi organizacjami;
-  9. wsparcie merytoryczne lub finansowe zainteresowanych stowarzyszeń i organizacji;
-  10. udzielanie nieodpłatnego poradnictwa obywatelskiego;
-  11. udział w projektach finansowanych ze środków publicznych lub prywatnych, w tym poprzez udzielanie konsultacji technicznych;
-  12. udział w konsultacjach organów władzy publicznej dotyczących nowych technologii i bezpieczeństwa cybernetycznego.
+   1. tworzenie i utrzymywanie infrastruktury stymulującej rozwój projektów badawczych i edukacyjnych;
+   2. prowadzenie spotkań, konferencji, seminariów, wykładów i szkoleń;
+   3. organizowanie konkursów i imprez promocyjnych oraz działalność kulturalną, w szczególności organizowanie wystaw, prezentacji, projekcji, happeningów;
+   4. udział w imprezach promujących naukę;
+   5. realizację i wspieranie projektów naukowych;
+   6. działalność edukacyjną, publicystyczną i wydawniczą;
+   7. działania integrujące środowiska akademickie i przemysłowe;
+   8. współpracę z krajowymi i zagranicznymi organizacjami;
+   9. wsparcie merytoryczne lub finansowe zainteresowanych stowarzyszeń i organizacji;
+   10. udzielanie nieodpłatnego poradnictwa obywatelskiego;
+   11. udział w projektach finansowanych ze środków publicznych lub prywatnych, w tym poprzez udzielanie konsultacji technicznych;
+   12. udział w konsultacjach organów władzy publicznej dotyczących nowych technologii i bezpieczeństwa cybernetycznego.
 
 ## Rozdział III. Członkostwo
 
@@ -66,10 +66,10 @@ Stowarzyszenie swe cele realizuje poprzez:
 ### § 7. Rodzaje członkostwa
 
 1. Stowarzyszenie posiada członków:
-  1. wspierających - zdalnych;
-  2. wspierających - zaufanych;
-  3. zwyczajnych;
-  4. honorowych.
+   1. wspierających - zdalnych;
+   2. wspierających - zaufanych;
+   3. zwyczajnych;
+   4. honorowych.
 2. Istota członkostwa wspierającego polega na tym, iż członkowie wspierający nie mają prawa do decydowania o losach Stowarzyszenia ani do uczestnictwa w jego organach.
 3. Członkowie wspierający-zaufani mają samodzielny dostęp do infrastruktury materialnej Stowarzyszenia, w szczególności materialnej infrastruktury informatycznej oraz pomieszczeń ją mieszczących, na równi z członkami zwykłymi; członkowie wspierający - zdalni nie mają takiego dostępu, a korzystać z infrastruktury materialnej mogą pod nadzorem, na warunkach określonych uchwałą Walnego Zebrania.
 
@@ -83,8 +83,8 @@ określonym w § 19 ust.3 Statutu, przy czym oświadczenie woli  jest wydawane p
 5. Członkiem wspierającym - zaufanym, zostaje taka osoba będąca członkiem wspierającym - zdalnym, na wniosek której Zarząd Stowarzyszenia podejmie jednomyślnie uchwałę o przyjęciu w poczet członków wspierających- zaufanych, przy czym członek wspierający - zdalny wolę o zamiarze zostania członkiem wspierającym - zaufanym może wyrazić wobec Stowarzyszenia w dowolny sposób.
 6. Informacja o oświadczeniu woli Stowarzyszenia o przyjęciu nowego członka wspierającego - zdalnego lub o  nadaniu statusu  członka wspierającego - zaufanego przesyłana jest przez Zarząd pocztą elektroniczną na adres podany przez osobę zainteresowaną, o ile dana osoba nie uczestniczyła jako gość  - odpowiednio - w Walnym Zebraniu lub posiedzeniu Zarządu.
 7. Zarząd umożliwia osobie zainteresowanej dostęp do infrastruktury Stowarzyszenia, odpowiedniej dla danego typu członkostwa, czyli:
-  1. infrastruktury niematerialnej  dla członków wspierających-zdalnych, po wpłacie pierwszej składki członkowskiej, zgodnie z § 8 ust.3 Statutu;
-  2. infrastruktury niematerialnej i fizycznej w wypadku członków wspierających - zaufanych, niezwłocznie po podjęciu uchwały zgodnie z § 8 ust.5 Statutu.
+   1. infrastruktury niematerialnej  dla członków wspierających-zdalnych, po wpłacie pierwszej składki członkowskiej, zgodnie z § 8 ust.3 Statutu;
+   2. infrastruktury niematerialnej i fizycznej w wypadku członków wspierających - zaufanych, niezwłocznie po podjęciu uchwały zgodnie z § 8 ust.5 Statutu.
 8. Zawiązanie członkostwa wspierającego z osoba prawną może być uzależnione przez Zarząd od podjęcia przez daną osobę prawną zobowiązania do udzielenia pomocy finansowej, rzeczowej lub merytorycznej w realizacji celów Stowarzyszenia, w formie i wielkości uzgodnionej z Zarządem Stowarzyszenia, potwierdzonej umową.
 
 ### § 9. Członkowie zwyczajni
@@ -102,27 +102,27 @@ określonym w § 19 ust.3 Statutu, przy czym oświadczenie woli  jest wydawane p
 ### § 11. Prawa członków Stowarzyszenia
 
 1. Członkowie zwyczajni mają prawo do:
-  1. korzystania z dorobku, majątku i wszelkich form działalności Stowarzyszenia na warunkach określonych szczegółową uchwałą Walnego Zebrania;
-  2. uczestnictwa w Walnych Zebraniach z prawem głosu, w tym wyrażania sprzeciwu wobec przyjmowania nowych członków zwyczajnych;
-  3. zwoływania Walnego Zebrania, na warunkach określonych w § 17 ust.6 Statutu;
-  4. zgłaszania wniosków Zarządowi, a dotyczących działalności Stowarzyszenia, na warunkach określonych szczegółową uchwałą Walnego Zebrania;
-  5. biernego i czynnego uczestniczenia w wyborach do Zarządu i Komisji Rewizyjnej Stowarzyszenia;
-  6. dostępu do pomieszczeń oraz całej - materialnej i niematerialnej - infrastruktury Stowarzyszenia, w tym pomieszczeń jedynie dla członków, na warunkach określonych szczegółową uchwałą Walnego Zebrania;
-  7. dostępu do informacji dotyczących działalności Stowarzyszenia, w tym okresowych raportów z działań i sprawozdań finansowych, na warunkach określonych szczegółową uchwałą Walnego Zebrania;
-  8. reprezentowania Stowarzyszenia w sposób celowy, np. w ciałach innych organizacji, w debatach publicznych, na warunkach określonych szczegółową uchwałą Walnego Zebrania lub po udzieleniu pełnomocnictwa przez Zarząd.
+   1. korzystania z dorobku, majątku i wszelkich form działalności Stowarzyszenia na warunkach określonych szczegółową uchwałą Walnego Zebrania;
+   2. uczestnictwa w Walnych Zebraniach z prawem głosu, w tym wyrażania sprzeciwu wobec przyjmowania nowych członków zwyczajnych;
+   3. zwoływania Walnego Zebrania, na warunkach określonych w § 17 ust.6 Statutu;
+   4. zgłaszania wniosków Zarządowi, a dotyczących działalności Stowarzyszenia, na warunkach określonych szczegółową uchwałą Walnego Zebrania;
+   5. biernego i czynnego uczestniczenia w wyborach do Zarządu i Komisji Rewizyjnej Stowarzyszenia;
+   6. dostępu do pomieszczeń oraz całej - materialnej i niematerialnej - infrastruktury Stowarzyszenia, w tym pomieszczeń jedynie dla członków, na warunkach określonych szczegółową uchwałą Walnego Zebrania;
+   7. dostępu do informacji dotyczących działalności Stowarzyszenia, w tym okresowych raportów z działań i sprawozdań finansowych, na warunkach określonych szczegółową uchwałą Walnego Zebrania;
+   8. reprezentowania Stowarzyszenia w sposób celowy, np. w ciałach innych organizacji, w debatach publicznych, na warunkach określonych szczegółową uchwałą Walnego Zebrania lub po udzieleniu pełnomocnictwa przez Zarząd.
 2. Członkowie wspierający mają prawo do:
-  1. uczestnictwa w Walnych Zebraniach z głosem doradczym;
-  2. korzystania z dorobku, majątku i wszelkich form działalności Stowarzyszenia na warunkach określonych szczegółową uchwałą Walnego Zebrania, przy czym członkowie wspierający-zdalni mają prawo do dostępu do infrastruktury niematerialnej Stowarzyszenia, zaś członkowie wspierający - zaufani do infrastruktury na równi z członkami zwykłymi.
+   1. uczestnictwa w Walnych Zebraniach z głosem doradczym;
+   2. korzystania z dorobku, majątku i wszelkich form działalności Stowarzyszenia na warunkach określonych szczegółową uchwałą Walnego Zebrania, przy czym członkowie wspierający-zdalni mają prawo do dostępu do infrastruktury niematerialnej Stowarzyszenia, zaś członkowie wspierający - zaufani do infrastruktury na równi z członkami zwykłymi.
 3. Członkowie honorowi mają prawa identyczne z członkami zwyczajnymi.
 
 ### § 12. Obowiązki członków Stowarzyszenia
 
 1. Członkowie Stowarzyszenia mają obowiązek:
-  1. przestrzegania statutu i uchwał władz Stowarzyszenia w granicach obowiązującego prawa;
-  2. regularnego opłacania składek na warunkach określonych szczegółową uchwałą Walnego Zebrania;
-  3. poszanowania mienia należącego do Stowarzyszenia, oraz dbania o jego stan i dostępność, oraz informowania Zarządu o spostrzeżonych nieprawidłowościach;
-  4. dbania o dobre imię Stowarzyszenia, w tym powstrzymywania się od takich zachowań publicznych, które mogą narazić na szwank dobre imię Stowarzyszenia, choćby tylko poprzez luźne skojarzenie Stowarzyszenia z osobą członka Stowarzyszenia;
-  5. informowania Zarządu Stowarzyszenia o zmianach adresu poczty elektronicznej, właściwego do komunikacji ze Stowarzyszeniem;
+   1. przestrzegania statutu i uchwał władz Stowarzyszenia w granicach obowiązującego prawa;
+   2. regularnego opłacania składek na warunkach określonych szczegółową uchwałą Walnego Zebrania;
+   3. poszanowania mienia należącego do Stowarzyszenia, oraz dbania o jego stan i dostępność, oraz informowania Zarządu o spostrzeżonych nieprawidłowościach;
+   4. dbania o dobre imię Stowarzyszenia, w tym powstrzymywania się od takich zachowań publicznych, które mogą narazić na szwank dobre imię Stowarzyszenia, choćby tylko poprzez luźne skojarzenie Stowarzyszenia z osobą członka Stowarzyszenia;
+   5. informowania Zarządu Stowarzyszenia o zmianach adresu poczty elektronicznej, właściwego do komunikacji ze Stowarzyszeniem;
 2. Członkowie zwyczajni mają dodatkowo obowiązek aktywnego udziału w działalności Stowarzyszenia i realizacji jego celów.
 3. Członkowie wspierający będący osobami prawnymi mają dodatkowy obowiązek wywiązywania się ze świadczeń zadeklarowanych na rzecz Stowarzyszenia.
 4. Członkowie honorowi są zwolnieni z obowiązku płacenia składek.
@@ -130,25 +130,25 @@ określonym w § 19 ust.3 Statutu, przy czym oświadczenie woli  jest wydawane p
 ### § 13. Utrata członkostwa
 
 1. Utrata członkostwa może nastąpić w wyniku:
-  1. oświadczenia woli zainteresowanego, z uwzględnieniem § 6 ust.6 Statutu;
-  2. zaistnienia zdarzeń pozbawiających członka możliwości uczestnictwa w Stowarzyszeniu,
-  3. orzeczenia dyscyplinarnego.
+   1. oświadczenia woli zainteresowanego, z uwzględnieniem § 6 ust.6 Statutu;
+   2. zaistnienia zdarzeń pozbawiających członka możliwości uczestnictwa w Stowarzyszeniu,
+   3. orzeczenia dyscyplinarnego.
 2. Oświadczenie woli o zamiarze rezygnacji z udziału w Stowarzyszeniu winno być sporządzone na piśmie pod rygorem nieważności, zaś rozwiązanie stosunku członkostwa następuje z chwilą skutecznego doręczenia oświadczenia woli na ręce dowolnego członka Zarządu.
 3. Zdarzeniami powodującymi utratę członkostwa z mocy prawa są:
-  1. w wypadku osób fizycznych:
-    1. śmierć członka - z chwilą określoną w odpowiednim akcie stanu cywilnego lub prawomocnym orzeczeniu sądu;
-    2. całkowita utrata zdolności do czynności prawnych - z chwilą uprawomocnienia się odpowiedniego orzeczenia sądu;
-  2. w wypadku osób prawnych:
-    1. ogłoszenie upadłości - z chwilą uprawomocnienia się odpowiedniego orzeczenia;
-    2. b) wykreślenie osoby prawnej z rejestru- z chwilą dokonania odpowiedniego wpisu;
+   1. w wypadku osób fizycznych:
+     1. śmierć członka - z chwilą określoną w odpowiednim akcie stanu cywilnego lub prawomocnym orzeczeniu sądu;
+     2. całkowita utrata zdolności do czynności prawnych - z chwilą uprawomocnienia się odpowiedniego orzeczenia sądu;
+   2. w wypadku osób prawnych:
+     1. ogłoszenie upadłości - z chwilą uprawomocnienia się odpowiedniego orzeczenia;
+     2. b) wykreślenie osoby prawnej z rejestru- z chwilą dokonania odpowiedniego wpisu;
 
 ### § 14. Orzeczenia dyscyplinarne
 
 1. Orzeczenie dyscyplinarne usuwające członka może nastąpić w drodze uchwały Zarządu, podjętej - w miarę możliwości - po wysłuchaniu osoby zainteresowanej, na skutek:
-  1. łamania Statutu lub nieprzestrzegania zgodnych z prawem uchwał władz Stowarzyszenia;
-  2. braku wpłat składek członkowskich za okres co najmniej trzech miesięcy lub - w wypadku osób prawnych - niewywiązywania się z umowy ze Stowarzyszeniem;
-  3. łamania zasad współżycia społecznego na szkodę Stowarzyszenia lub mogącego powodować szkodę na wizerunku Stowarzyszenia;
-  4. przypisania sobie uprawnień do reprezentowania Stowarzyszenia bez faktycznej zgody Stowarzyszenia.
+   1. łamania Statutu lub nieprzestrzegania zgodnych z prawem uchwał władz Stowarzyszenia;
+   2. braku wpłat składek członkowskich za okres co najmniej trzech miesięcy lub - w wypadku osób prawnych - niewywiązywania się z umowy ze Stowarzyszeniem;
+   3. łamania zasad współżycia społecznego na szkodę Stowarzyszenia lub mogącego powodować szkodę na wizerunku Stowarzyszenia;
+   4. przypisania sobie uprawnień do reprezentowania Stowarzyszenia bez faktycznej zgody Stowarzyszenia.
 2. W wypadkach mniejszej wagi, w tym w wypadku braku opłaty składek za okres jednego miesiąca,  Zarząd może zarządzić zawieszenie członka w części lub całości jego praw na określony okres albo udzielić członkowi nagany i zobowiązać go do zaniechania w przyszłości działań będących podstawą orzeczenia dyscyplinarnego.
 3. Zainteresowany może pisemnie zwrócić się za pośrednictwem Zarządu o zbadanie jego sprawy przez najbliższe Walne Zebranie, z podaniem swojej wersji zdarzeń oraz ich interpretacji; najbliższe Walne Zebranie, z wyłączeniem Walnych Zebrań powoływanych wyłącznie w celu przyjęcia nowych członków, winno rozpoznać taki wniosek,.
 4. Orzeczenia dyscyplinarne Zarządu są natychmiast wykonalne po podjęciu stosownej uchwały Zarządu,  złożenie pisma o którym mowa w § 14 ust.4 nie tamuje wykonania orzeczenia.
@@ -210,20 +210,20 @@ z treścią § 17 ust. 4 Statutu; w powyższych wypadkach kworum nie jest wymaga
 
 Do kompetencji Walnego Zebrania nalezą wszystkie sprawy nie należące do kompetencji pozostałych władz Stowarzyszenia, a w szczególności:
 
-  1. określenie głównych kierunków działania i rozwoju Stowarzyszenia,
-  2. uchwalanie zmian statutu,
-  3. wybór i odwoływanie wszystkich władz Stowarzyszenia,
-  4. udzielanie Zarządowi absolutorium na wniosek Komisji Rewizyjnej,
-  5. ustalanie wysokości składek członkowskich,
-  6. rozpatrywanie i zatwierdzanie sprawozdań władz Stowarzyszenia,
-  7. rozpatrywanie wniosków i postulatów zgłoszonych przez członków
+   1. określenie głównych kierunków działania i rozwoju Stowarzyszenia,
+   2. uchwalanie zmian statutu,
+   3. wybór i odwoływanie wszystkich władz Stowarzyszenia,
+   4. udzielanie Zarządowi absolutorium na wniosek Komisji Rewizyjnej,
+   5. ustalanie wysokości składek członkowskich,
+   6. rozpatrywanie i zatwierdzanie sprawozdań władz Stowarzyszenia,
+   7. rozpatrywanie wniosków i postulatów zgłoszonych przez członków
 Stowarzyszenia lub jego władze,
-  8. rozpatrywanie deliktów dyscyplinarnych w celu uchylenia bądź zmiany  
+   8. rozpatrywanie deliktów dyscyplinarnych w celu uchylenia bądź zmiany  
 uchwał Zarządu w tym zakresie,
-  9. podejmowanie uchwały o rozwiązaniu Stowarzyszenia i przeznaczeniu jego
+   9. podejmowanie uchwały o rozwiązaniu Stowarzyszenia i przeznaczeniu jego
 majątku,
-  10. przyjmowanie członków wspierających - zdalnych oraz członków  zwyczajnych do Stowarzyszenia oraz ustanawianie członków honorowych;
-  11. podejmowanie uchwał w każdej sprawie objętej porządkiem obrad, we wszystkich sprawach nie zastrzeżonych do kompetencji innych władz Stowarzyszenia.
+   10. przyjmowanie członków wspierających - zdalnych oraz członków  zwyczajnych do Stowarzyszenia oraz ustanawianie członków honorowych;
+   11. podejmowanie uchwał w każdej sprawie objętej porządkiem obrad, we wszystkich sprawach nie zastrzeżonych do kompetencji innych władz Stowarzyszenia.
 
 ### § 21. Wybór Zarządu
 
@@ -248,23 +248,23 @@ majątku,
 
 Do kompetencji Zarządu należą:
 
-  1. realizacja celów Stowarzyszenia;
-  2. wykonywanie uchwał Walnego Zebrania;
-  3. sporządzanie planów pracy i budżetu Stowarzyszenia;
-  4. zawarcie umowy rachunku bankowego oraz dysponowanie środkami z tego rachunku;
-  5. sprawowanie zarządu nad majątkiem Stowarzyszenia, w tym w granicach przekraczających zwykły zarząd;
-  6. oddanie zarządzania nad majątkiem Stowarzyszenia;
-  7. zaciąganie zobowiązań w imieniu Stowarzyszenia, zgodnie z treścią § 24 Statutu, oraz składanie innych oświadczeń woli w imieniu Stowarzyszenia;
-  8. reprezentowanie Stowarzyszenia wobec organów administracji i sądów;
-  9. zwoływanie Walnego Zebrania;
-  10. nadawanie statusu członków wspierających - zaufanych;
-  11. zawieranie umów z członkami wspierającymi będącymi osobami prawnymi;
-  12. czasowe zawieszanie i usuwanie członków oraz udzielanie nagan w postępowaniu dyscyplinarnym;
-  13. składanie sprawozdań ze swojej działalności na Walnym Zebraniu;
-  14. sporządzanie rocznego sprawozdania finansowego;
-  15. występowania w imieniu Stowarzyszenia na drogę sądową w sprawach roszczeń o zapłatę składki członkowskiej;
-  16. zatrudnienia pracowników, na podstawie i w granicach uprzednio przyjętej uchwały Walnego Zebrania;
-  17. czasowego udzielania zwolnienia z obowiązku płacenia składek.
+   1. realizacja celów Stowarzyszenia;
+   2. wykonywanie uchwał Walnego Zebrania;
+   3. sporządzanie planów pracy i budżetu Stowarzyszenia;
+   4. zawarcie umowy rachunku bankowego oraz dysponowanie środkami z tego rachunku;
+   5. sprawowanie zarządu nad majątkiem Stowarzyszenia, w tym w granicach przekraczających zwykły zarząd;
+   6. oddanie zarządzania nad majątkiem Stowarzyszenia;
+   7. zaciąganie zobowiązań w imieniu Stowarzyszenia, zgodnie z treścią § 24 Statutu, oraz składanie innych oświadczeń woli w imieniu Stowarzyszenia;
+   8. reprezentowanie Stowarzyszenia wobec organów administracji i sądów;
+   9. zwoływanie Walnego Zebrania;
+   10. nadawanie statusu członków wspierających - zaufanych;
+   11. zawieranie umów z członkami wspierającymi będącymi osobami prawnymi;
+   12. czasowe zawieszanie i usuwanie członków oraz udzielanie nagan w postępowaniu dyscyplinarnym;
+   13. składanie sprawozdań ze swojej działalności na Walnym Zebraniu;
+   14. sporządzanie rocznego sprawozdania finansowego;
+   15. występowania w imieniu Stowarzyszenia na drogę sądową w sprawach roszczeń o zapłatę składki członkowskiej;
+   16. zatrudnienia pracowników, na podstawie i w granicach uprzednio przyjętej uchwały Walnego Zebrania;
+   17. czasowego udzielania zwolnienia z obowiązku płacenia składek.
 
 ### § 24. Zaciąganie zobowiązań i inna reprezentacja
 
@@ -291,12 +291,12 @@ mowa w § 25 ust.2 Statutu, oraz prawu członka Komisji Rewizyjnej do występowa
 
 Do kompetencji Komisji Rewizyjnej należy:
 
-  1. kontrolowanie działalności Zarządu;
-  2. składanie wniosków z kontroli na Walnym Zebraniu;
-  3. prawo wystąpienia z wnioskiem o zwołanie Walnego Zebraniu oraz zebrania Zarządu;
-  4. składanie wniosków o absolutorium dla Zarządu Stowarzyszenia;
-  5. składanie sprawozdań ze swojej działalności na Walnym Zebraniu;
-  6. zatwierdzanie rocznego sprawozdania finansowego.
+   1. kontrolowanie działalności Zarządu;
+   2. składanie wniosków z kontroli na Walnym Zebraniu;
+   3. prawo wystąpienia z wnioskiem o zwołanie Walnego Zebraniu oraz zebrania Zarządu;
+   4. składanie wniosków o absolutorium dla Zarządu Stowarzyszenia;
+   5. składanie sprawozdań ze swojej działalności na Walnym Zebraniu;
+   6. zatwierdzanie rocznego sprawozdania finansowego.
 
 ### § 27. Kadencja Zarządu i Komisji Rewizyjnej
 
@@ -336,15 +336,15 @@ Do kompetencji Komisji Rewizyjnej należy:
 ### § 32. Pozyskiwanie środków finansowych
 
 1. Stowarzyszenie uzyskuje środki finansowe z :
-  1. składek członkowskich;
-  2. subwencji, darowizn, spadków i zapisów;
-  3. wpływów z odpłatnej działalności statutowej;
-  4. wpływów z działalności gospodarczej;
-  5. wpływów z ofiarności publicznej;
-  6. dochodów z majątku, odsetek oraz kapitału;
-  7. dotacji i kontraktów państwowych;
-  8. wpływów z loterii, aukcji i sponsoringu;
-  9. zbiórek publicznych.
+   1. składek członkowskich;
+   2. subwencji, darowizn, spadków i zapisów;
+   3. wpływów z odpłatnej działalności statutowej;
+   4. wpływów z działalności gospodarczej;
+   5. wpływów z ofiarności publicznej;
+   6. dochodów z majątku, odsetek oraz kapitału;
+   7. dotacji i kontraktów państwowych;
+   8. wpływów z loterii, aukcji i sponsoringu;
+   9. zbiórek publicznych.
 2. Stowarzyszenie prowadzi gospodarkę finansową zgodnie z obowiązującymi przepisami.
 
 ### § 33. Obowiązki Zarządu w zakresie finansów
