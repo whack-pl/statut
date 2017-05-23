@@ -51,11 +51,11 @@ Stowarzyszenie swe cele realizuje poprzez:
   11. udział w projektach finansowanych ze środków publicznych lub prywatnych, w tym poprzez udzielanie konsultacji technicznych;
   12. udział w konsultacjach organów władzy publicznej dotyczących nowych technologii i bezpieczeństwa cybernetycznego.
 
-## Rozdział III. Członkowstwo
+## Rozdział III. Członkostwo
 
 ### § 6. Zasady ogólne
 
-1. Członkostwo w Stowarzyszeniu jest dobrowolne; żaden z zapisów Statutu nie może być wykładany jako zamiar narzucenia członkowstwa, okoliczność zobowiązująca do członkostwa, element przymusu czy presji w celu wywołania stosunku członkowstwa w Stowarzyszeniu.
+1. Członkostwo w Stowarzyszeniu jest dobrowolne; żaden z zapisów Statutu nie może być wykładany jako zamiar narzucenia członkostwa, okoliczność zobowiązująca do członkostwa, element przymusu czy presji w celu wywołania stosunku członkostwa w Stowarzyszeniu.
 2. Występowanie ze Stowarzyszenia jest dobrowolne; żaden z zapisów Statutu nie może być wykładany jako ograniczający prawo do dowolnego występowania ze Stowarzyszenia.
 3. Członkowie Stowarzyszenia pozostają autonomiczni względem władz Stowarzyszenia; żaden z zapisów Statutu nie może być wykładany jako nakaz posłuszeństwa czy określonego zachowania członków Stowarzyszenia wobec jego władz.
 4. Cudzoziemcy mogą być członkami Stowarzyszenia na równi z obywatelami polskimi, niezależnie od miejsca ich zamieszkania lub pobytu.
@@ -63,41 +63,41 @@ Stowarzyszenie swe cele realizuje poprzez:
 6. Każdy członek Stowarzyszenia musi wyrazić zgodę na korzystanie z poczty elektronicznej przy kontaktach ze Stowarzyszeniem, w  wypadku osób fizycznych uzupełnioną o  zgodę na przetwarzanie danych osobowych w zakresie w jakim jest to niezbędne do prowadzenia spraw Stowarzyszenia; wycofanie takiej zgody jest równoznaczne z rezygnacją z uczestnictwa w Stowarzyszeniu.
 7. Zarząd Stowarzyszenia prowadzi księgę członków Stowarzyszenia oraz przechowuje dokumentację związaną z członkostwem w Stowarzyszeniu.
 
-### § 7. Rodzaje członkowstwa
+### § 7. Rodzaje członkostwa
 
 1. Stowarzyszenie posiada członków:
   1. wspierających - zdalnych;
   2. wspierających - zaufanych;
   3. zwyczajnych;
   4. honorowych.
-2. Istota członkowstwa wspierającego polega na tym, iż członkowie wspierający nie mają prawa do decydowania o losach Stowarzyszenia ani do uczestnictwa w jego organach.
+2. Istota członkostwa wspierającego polega na tym, iż członkowie wspierający nie mają prawa do decydowania o losach Stowarzyszenia ani do uczestnictwa w jego organach.
 3. Członkowie wspierający-zaufani mają samodzielny dostęp do infrastruktury materialnej Stowarzyszenia, w szczególności materialnej infrastruktury informatycznej oraz pomieszczeń ją mieszczących, na równi z członkami zwykłymi; członkowie wspierający - zdalni nie mają takiego dostępu, a korzystać z infrastruktury materialnej mogą pod nadzorem, na warunkach określonych uchwałą Walnego Zebrania.
 
 ### § 8. Członkowie wspierający
 
 1. Członkiem wspierającym Stowarzyszenia może zostać osoba fizyczna lub prawna, która przedstawi pozytywną rekomendację od co najmniej dwóch członków zwyczajnych Stowarzyszenia.
-2. Osoba zainteresowana członkowstwem w Stowarzyszeniu składa na ręce jednego z członków Zarządu Stowarzyszenia deklarację członkowską wraz ze zgodą o której mowa w § 7 ust.6 Statutu, oraz wskazuje osoby rekomendujące jej kandydaturę.
-3. Zawiązanie członkowstwa następuje poprzez złożenie woli w imieniu Stowarzyszenia przez Walne Zebranie jednomyślną uchwałą, podejmowaną w trybie
+2. Osoba zainteresowana członkostwem w Stowarzyszeniu składa na ręce jednego z członków Zarządu Stowarzyszenia deklarację członkowską wraz ze zgodą o której mowa w § 7 ust.6 Statutu, oraz wskazuje osoby rekomendujące jej kandydaturę.
+3. Zawiązanie członkostwa następuje poprzez złożenie woli w imieniu Stowarzyszenia przez Walne Zebranie jednomyślną uchwałą, podejmowaną w trybie
 określonym w § 19 ust.3 Statutu, przy czym oświadczenie woli  jest wydawane pod warunkiem zawieszającym, a skuteczne staje się w chwili wpłacenia przez osobę zainteresowaną pierwszej składki członkowskiej, nie później niż 14 dni od daty otrzymania oświadczenia woli przez osobę zainteresowaną.
-4. Osoba z którą zawiązano członkowstwo staje się członkiem wspierającym - zdalnym.
+4. Osoba z którą zawiązano członkostwo staje się członkiem wspierającym - zdalnym.
 5. Członkiem wspierającym - zaufanym, zostaje taka osoba będąca członkiem wspierającym - zdalnym, na wniosek której Zarząd Stowarzyszenia podejmie jednomyślnie uchwałę o przyjęciu w poczet członków wspierających- zaufanych, przy czym członek wspierający - zdalny wolę o zamiarze zostania członkiem wspierającym - zaufanym może wyrazić wobec Stowarzyszenia w dowolny sposób.
 6. Informacja o oświadczeniu woli Stowarzyszenia o przyjęciu nowego członka wspierającego - zdalnego lub o  nadaniu statusu  członka wspierającego - zaufanego przesyłana jest przez Zarząd pocztą elektroniczną na adres podany przez osobę zainteresowaną, o ile dana osoba nie uczestniczyła jako gość  - odpowiednio - w Walnym Zebraniu lub posiedzeniu Zarządu.
-7. Zarząd umożliwia osobie zainteresowanej dostęp do infrastruktury Stowarzyszenia, odpowiedniej dla danego typu członkowstwa, czyli:
+7. Zarząd umożliwia osobie zainteresowanej dostęp do infrastruktury Stowarzyszenia, odpowiedniej dla danego typu członkostwa, czyli:
   1. infrastruktury niematerialnej  dla członków wspierających-zdalnych, po wpłacie pierwszej składki członkowskiej, zgodnie z § 8 ust.3 Statutu;
   2. infrastruktury niematerialnej i fizycznej w wypadku członków wspierających - zaufanych, niezwłocznie po podjęciu uchwały zgodnie z § 8 ust.5 Statutu.
-8. Zawiązanie członkowstwa wspierającego z osoba prawną może być uzależnione przez Zarząd od podjęcia przez daną osobę prawną zobowiązania do udzielenia pomocy finansowej, rzeczowej lub merytorycznej w realizacji celów Stowarzyszenia, w formie i wielkości uzgodnionej z Zarządem Stowarzyszenia, potwierdzonej umową.
+8. Zawiązanie członkostwa wspierającego z osoba prawną może być uzależnione przez Zarząd od podjęcia przez daną osobę prawną zobowiązania do udzielenia pomocy finansowej, rzeczowej lub merytorycznej w realizacji celów Stowarzyszenia, w formie i wielkości uzgodnionej z Zarządem Stowarzyszenia, potwierdzonej umową.
 
 ### § 9. Członkowie zwyczajni
 
 1. Członkiem zwykłym Stowarzyszenia może zostać wyłącznie pełnoletnia osoba fizyczna, posiadająca pełną zdolność do czynności prawnych, która była członkiem wspierającym (zwyczajnym lub zdalnym) przez okres co najmniej trzech miesięcy, w którym to okresie angażowała się w prace Stowarzyszenia oraz nie złamała postanowień Statutu.
-2. Zawiązanie członkowstwa zwyczajnego następuje poprzez złożenie woli w imieniu Stowarzyszenia przez Walne Zebranie jednomyślną uchwałą, podejmowaną w trybie określonym w § 19 ust.3 Statutu na wniosek osoby zainteresowanej, przy czym członek wspierający wolę o zamiarze zostania członkiem zwyczajnym  może wyrazić wobec Stowarzyszenia w dowolny sposób, a informacja o podjęciu uchwały przesyłana jest pocztą elektroniczną na adres podany przez osobę zainteresowaną, o ile osoba zainteresowana nie uczestniczyła w danym Walnym Zebraniu w ramach uprawnień o których mowa w § 11 ust.2 pkt 1) Statutu .
+2. Zawiązanie członkostwa zwyczajnego następuje poprzez złożenie woli w imieniu Stowarzyszenia przez Walne Zebranie jednomyślną uchwałą, podejmowaną w trybie określonym w § 19 ust.3 Statutu na wniosek osoby zainteresowanej, przy czym członek wspierający wolę o zamiarze zostania członkiem zwyczajnym  może wyrazić wobec Stowarzyszenia w dowolny sposób, a informacja o podjęciu uchwały przesyłana jest pocztą elektroniczną na adres podany przez osobę zainteresowaną, o ile osoba zainteresowana nie uczestniczyła w danym Walnym Zebraniu w ramach uprawnień o których mowa w § 11 ust.2 pkt 1) Statutu .
 3. Członkowie założyciele Stowarzyszenia stają się członkami zwykłymi Stowarzyszenia, bez zachowania wymogów o których mowa w ust. 1 i 2 powyżej.
 
 ### § 10. Członkowie honorowi
 
 1. Członkiem honorowym może zostać może zostać wyłącznie pełnoletnia osoba fizyczna, posiadająca pełną zdolność do czynności prawnych.
-2. Nadawanie członkowstwa honorowego następuje  w drodze kwalifikowanej uchwały Walnego  Zebrania, w trybie określonym w § 19 ust. 2 Statutu, podejmowanej na wniosek Zarządu.
-3. Warunkiem zawiązania członkowstwa honorowego jest akceptacja tego statusu przez osobę, której uchwała dotyczy; wymiana oświadczeń pomiędzy Stowarzyszeniem a dana osobą może nastąpić w dowolnej formie.
+2. Nadawanie członkostwa honorowego następuje  w drodze kwalifikowanej uchwały Walnego  Zebrania, w trybie określonym w § 19 ust. 2 Statutu, podejmowanej na wniosek Zarządu.
+3. Warunkiem zawiązania członkostwa honorowego jest akceptacja tego statusu przez osobę, której uchwała dotyczy; wymiana oświadczeń pomiędzy Stowarzyszeniem a dana osobą może nastąpić w dowolnej formie.
 
 ### § 11. Prawa członków Stowarzyszenia
 
@@ -127,14 +127,14 @@ określonym w § 19 ust.3 Statutu, przy czym oświadczenie woli  jest wydawane p
 3. Członkowie wspierający będący osobami prawnymi mają dodatkowy obowiązek wywiązywania się ze świadczeń zadeklarowanych na rzecz Stowarzyszenia.
 4. Członkowie honorowi są zwolnieni z obowiązku płacenia składek.
 
-### § 13. Utrata członkowstwa
+### § 13. Utrata członkostwa
 
-1. Utrata członkowstwa może nastąpić w wyniku:
+1. Utrata członkostwa może nastąpić w wyniku:
   1. oświadczenia woli zainteresowanego, z uwzględnieniem § 6 ust.6 Statutu;
   2. zaistnienia zdarzeń pozbawiających członka możliwości uczestnictwa w Stowarzyszeniu,
   3. orzeczenia dyscyplinarnego.
-2. Oświadczenie woli o zamiarze rezygnacji z udziału w Stowarzyszeniu winno być sporządzone na piśmie pod rygorem nieważności, zaś rozwiązanie stosunku członkowstwa następuje z chwilą skutecznego doręczenia oświadczenia woli na ręce dowolnego członka Zarządu.
-3. Zdarzeniami powodującymi utratę członkowstwa z mocy prawa są:
+2. Oświadczenie woli o zamiarze rezygnacji z udziału w Stowarzyszeniu winno być sporządzone na piśmie pod rygorem nieważności, zaś rozwiązanie stosunku członkostwa następuje z chwilą skutecznego doręczenia oświadczenia woli na ręce dowolnego członka Zarządu.
+3. Zdarzeniami powodującymi utratę członkostwa z mocy prawa są:
   1. w wypadku osób fizycznych:
     1. śmierć członka - z chwilą określoną w odpowiednim akcie stanu cywilnego lub prawomocnym orzeczeniu sądu;
     2. całkowita utrata zdolności do czynności prawnych - z chwilą uprawomocnienia się odpowiedniego orzeczenia sądu;
@@ -160,7 +160,7 @@ określonym w § 19 ust.3 Statutu, przy czym oświadczenie woli  jest wydawane p
 
 ### § 15. Dobrowolne zawieszenie
 
-1. Na wniosek członka będącego osoba fizyczną jego członkowstwo ulega zawieszeniu; do oświadczenia zainteresowanego zapis § 13 ust.2 Statutu stosuje się odpowiednio, dodatkowo wniosek ten winien szczegółowo wskazywać okres zawieszenia.
+1. Na wniosek członka będącego osoba fizyczną jego członkostwo ulega zawieszeniu; do oświadczenia zainteresowanego zapis § 13 ust.2 Statutu stosuje się odpowiednio, dodatkowo wniosek ten winien szczegółowo wskazywać okres zawieszenia.
 2. Członek zawieszony w trybie dobrowolnym nie ma obowiązku zapłaty składek członkowskich w okresie zawieszenia, a jego prawa w Stowarzyszeniu ulegają zawieszeniu.
 
 ## Rozdział IV. Władze Stowarzyszenia
