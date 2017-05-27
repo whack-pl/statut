@@ -276,7 +276,7 @@ Do kompetencji Zarządu należą:
 
 ### § 25. Komisja Rewizyjna
 
-1. W skład Komisji Rewizyjnej wchodzi do 3 do 5 osób, będących członkami zwykłymi Stowarzyszenia, w tym prezes, wiceprezes i sekretarz.
+1. W skład Komisji Rewizyjnej wchodzi do 3 do 5 osób, będących członkami zwykłymi Stowarzyszenia, w tym przewodniczący, wiceprzewodniczący i sekretarz.
 2. Wybór do Komisji Rewizyjnej i hierarchia jej członków są dokonywane analogicznie jak w przypadku członków Zarządu, zapisy § 21 ust.3-7 Statutu stosuje się odpowiednio.
 3. Zarząd zobowiązany jest do niezwłocznego udzielenia wszelkich informacji dotyczących bieżącej działalności Stowarzyszenia oraz do umożliwienia wglądu we wszelkie dokumenty Stowarzyszenia na każde żądanie członka Komisji Rewizyjnej.
 4. Komisja Rewizyjna ma prawo opiniować projekt budżetu, wykonanie budżetu, zawieranie umów, w szczególności powodujących zaciąganie zobowiązań powyżej
